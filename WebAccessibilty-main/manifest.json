@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Accessibility Helper",
+    "version": "1.0",
+    "description": "An extension to improve web accessibility",
+    "icons": {
+        "128": "icon.png"
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon.png"
+    },
+    "permissions": [
+        "scripting",
+        "activeTab"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    }
+}
+

@@ -18,3 +18,24 @@ To ensure that technology is accessible to people of all abilities, making the w
 - **MediaPipe**  
 - **OpenCV**  
 - **Chrome Extension** (HTML, CSS, JavaScript)  
+
+## Installation  
+
+1. Clone the repository and save it to your folder:  
+   ```bash
+   git clone https://github.com/LakshanKrithik/WebAccessibility.git
+To use the Chrome Extension:
+
+Open Chrome Developer Mode
+
+Select Load Unpacked
+
+Choose the cloned folder
+
+To use the AI Features:
+
+Open the folder in any IDE (ideally PyCharm)
+
+Install the required libraries
+
+Run the project
